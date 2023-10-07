@@ -13,6 +13,22 @@ Building an AI-powered Message Summarization Bot with OpenAI API, Slack, and Zap
 
 
 
+#
+
+##### <p align="center"> ⚖︎ This project is licensed under the GPL 3.0 - GNU AFERRO License.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
