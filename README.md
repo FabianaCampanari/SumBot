@@ -3,7 +3,8 @@
 # <p align="center">🤖 SumBot-FREE-CODE<br>
 ### <p align="center"> Building an AI-powered Message Summarization Bot with OpenAI API, Slack, and Zapier
 
-💪🏽Empowered AI No-Code Chatbots
+
+### <p align="center">  💪🏽Empowered AI Free-Code Chatbot
 
 
 
