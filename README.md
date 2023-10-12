@@ -1,4 +1,7 @@
  <br> :octocat:
+
+ <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="48">
+
  
 # <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48">
 
