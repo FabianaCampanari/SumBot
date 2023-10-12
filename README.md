@@ -1,6 +1,6 @@
  <br> 
 
-# <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> SumBot - Free Code #### <p align="center"> < made with love & Joy /> 🤎
+# <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> SumBot - Free Code<br> #### <p align="center"> < made with love & Joy /> 🤎
 <br>
 ### <p align="center"> 💪🏽 Building an AI-Empowered Message Summarization Bot with OpenAI API, Slack, and Zapier 
 
