@@ -2,7 +2,7 @@
 
 # <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="48"> SumBot - Free Code
 
-### <p align="center"> 💪🏽 AI-Empowered Message Summarization Bot with OpenAI API, Slack, and Zapier 
+### <p align="center"> 💪🏽 AI-Empowered Message Summarization Bot with OpenAI API, Slack, and Zapier.
 
 
 
