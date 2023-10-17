@@ -4,7 +4,6 @@
 
 ### <p align="center"> 💪🏽 AI-Empowered Message Summarization Bot with OpenAI API, Slack, and Zapier.
 
-< made with love & Joy /> 💎
 
 
 #
