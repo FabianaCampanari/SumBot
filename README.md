@@ -13,8 +13,7 @@ In today's world of information overload, we are often bombarded with lengthy te
 What if there was a solution to this problem that didn't require programming skills?
 
 ### <p align="center"> We introduce: :bowtie: SumBot
-
- A tool that automates the task of summarizing long messages for you.
+A tool that automates the task of summarizing long messages for you.
 
 
 
