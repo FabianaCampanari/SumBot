@@ -12,8 +12,7 @@ This is a project that leverages Artificial Intelligence (AI) in the business se
 In today's world of information overload, we are often bombarded with lengthy texts and messages.
 What if there was a solution to this problem that didn't require programming skills?
 
-### <p align="center"> We introduce: :bowtie: SumBot
-A tool that automates the task of summarizing long messages for you.
+### <p align="center"> We introduce: :bowtie: SumBot<br> A tool that automates the task of summarizing long messages for you.
 
 
 
