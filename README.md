@@ -14,6 +14,8 @@ What if there was a solution to this problem that didn't require programming ski
 
 ### <p align="center"> We introduce: :bowtie: SumBot
 
+ A tool that automates the task of summarizing long messages for you.
+
 
 
 
