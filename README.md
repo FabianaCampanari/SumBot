@@ -9,6 +9,8 @@ This is a project that leverages Artificial Intelligence (AI) in the business se
 
 ## Why SumBot?
 
+In today's world of information overload, we are often bombarded with lengthy texts and messages.
+
 
 
 
