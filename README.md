@@ -2,7 +2,7 @@
 
 # <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot - Free Code
 
-## <p align="center"> 
+## <p align="center"> 🤖 AI-Powered - Message Summarization ChatBot
 
 
 
