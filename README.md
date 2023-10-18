@@ -10,7 +10,7 @@ This is a project that leverages Artificial Intelligence (AI) in the business se
 
 ## Why SumBot?
 
-In today's world of information overload, we are often bombarded with lengthy texts and messages<br>
+In today's world of information overload, we are often bombarded with lengthy texts and messages.<br>
 What if there was a solution to this problem that didn't require programming skills?
 
 <p align="center"> We introduce: :bowtie: SumBot </p>
