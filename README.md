@@ -2,8 +2,6 @@
 
 # <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot - Free Code
 
-***AI-Powered Message Summarization ChatBot***
-
 
 ### <p align="center"> 🤖 AI-Powered ChatBot with GPT integration."
 
