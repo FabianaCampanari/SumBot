@@ -16,7 +16,7 @@ Considering a solution for this:
 
 <p align="center"> We introduce: :bowtie: SumBot </p>
 
-A tool that automates the task of summarizing long messages for you.
+ an AI-powered tool that automates the task of summarizing lengthy messages for you
 
 
 
