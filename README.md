@@ -21,8 +21,8 @@ Considering a solution for this:
 
 #
 
-##### <p align="center"> ⚖︎ This project is licensed under the GPL 3.0 - GNU AFERRO License.<p align="center"> Copyright (c) 2023 SumBot IBS's Competitors Crew - All Rights Reserved </p>
-
+##### <p align="center"> ⚖︎ This project is licensed under the GPL 3.0 - GNU AFERRO License.<p align="center"> 
+Copyright (c) 2023 Sumbot IBS's AI competition team </p>
 
 
 
