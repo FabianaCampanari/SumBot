@@ -10,7 +10,7 @@ This is a project that leverages **Artificial** Intelligence (AI) in the busines
  <br> <br> 
  
 ###  <p align="center">   [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
-<br><br>  
+<br>
 
 ## Why SumBot?
 
