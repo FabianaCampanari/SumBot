@@ -1,3 +1,8 @@
+|[![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari) |
+| --- |
+| **About:** Descrição da sua aplicação ou projeto. |
+ 
+ 
  <br> 
 
 # <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/bowtie.png" width="40"> SumBot FreeCode
