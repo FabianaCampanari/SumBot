@@ -18,7 +18,9 @@ In today's world of information overload, we are often bombarded with lengthy te
 What if there was a solution to this problem that didn't require programming skills?
 Considering a solution for this:
 
-#### <p align="center"> We introduce: :bowtie: SumBot </p><p align="center"> an AI-powered tool that automates the task of summarizing lengthy messages for you
+### <p align="center"> We introduce: :bowtie: SumBot </p><p align="center"> 
+
+#### <p align="center">An AI-powered tool that automates the task of summarizing long messages for you!
 
 
 
