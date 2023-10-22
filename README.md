@@ -22,7 +22,7 @@ Considering a solution for this:
 
 ### <p align="center"> We introduce: :bowtie: SumBot </p><p align="center<br></br>
 
-#### <p align="center">An AI-powered tool that automates the task of summarizing long messages for you!
+ <p align="center"> An AI-powered tool that automates the task of summarizing long messages for you!
 
 
 
