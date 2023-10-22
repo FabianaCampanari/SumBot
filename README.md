@@ -12,7 +12,7 @@ This is a project that leverages **Artificial Intelligence (AI)** in the busines
 ####  <p align="center">   [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
 
 
-## Why SumBot?
+## 🤖 Why SumBot?
 
 In today's world of information overload, we are often bombarded with lengthy texts and messages.<br>
 What if there was a solution to this problem that didn't require programming skills?:<br>
