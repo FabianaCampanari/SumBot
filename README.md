@@ -18,7 +18,9 @@ In today's world of information overload, we are often bombarded with lengthy te
 What if there was a solution to this problem that didn't require programming skills?:<br>
 Considering a solution for this:<br>
 
-### <p align="center"> We introduce: :bowtie: SumBot <p align="center"> An AI-Powered tool that automates the task of summarizing long messages for you!</p><br> <p>And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
+### <p align="center"> We introduce: :bowtie: SumBot <p align="center">
+An AI-Powered tool that automates the task of summarizing long messages for you!
+And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
 
 ## 🤔 How It Works 
 
