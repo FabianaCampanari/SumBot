@@ -9,7 +9,7 @@
 This is a project that leverages **Artificial** Intelligence (AI) in the business sector. It was created specifically for the **Project and Startup Competition** promoted by the International Business School Americas (IBS Americas). This initiative is a collaborative effort with various universities and foundations, both public and private, from Europe and the United States. The project reveals the activities related to the competition, which centers on projects and startups utilizing AI.
  <br> <br> 
  
-###  <p align="center">   [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
+####  <p align="center">   [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
 
 
 ## Why SumBot?
@@ -18,7 +18,7 @@ In today's world of information overload, we are often bombarded with lengthy te
 What if there was a solution to this problem that didn't require programming skills?:<br>
 Considering a solution for this:
 
-#### <p align="center"> We introduce: :bowtie: SumBot <p align="center"> An AI-Powered tool that automates the task of summarizing long messages for you!
+### <p align="center"> We introduce: :bowtie: SumBot <p align="center"> An AI-Powered tool that automates the task of summarizing long messages for you!
 
 
 
