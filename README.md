@@ -20,6 +20,9 @@ Considering a solution for this:
 
 ### <p align="center"> We introduce: :bowtie: SumBot <p align="center"> An AI-Powered tool that automates the task of summarizing long messages for you!
 
+And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
+
+
 
 
 
