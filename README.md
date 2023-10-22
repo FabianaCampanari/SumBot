@@ -20,7 +20,7 @@ What if there was a solution to this problem that didn't require programming ski
 
 Considering a solution for this:
 
-### <p align="center"> We introduce: :bowtie: SumBot<br>
+### <p align="center"> We introduce: :bowtie: SumBot
 
  <p align="center"> An AI-powered tool that automates the task of summarizing long messages for you!
 
