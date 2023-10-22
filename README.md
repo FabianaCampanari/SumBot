@@ -22,6 +22,8 @@ Considering a solution for this:<br><br>
 
 And the best part is, you don't need to be a programmer to use it. This project utilizes three essential tools: the OpenAI API, Slack (where our bot resides), and Zapier for integration.
 
+## It Works :art:
+
 
 
 
