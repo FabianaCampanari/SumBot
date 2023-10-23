@@ -33,7 +33,7 @@ And the best part is, you don't need to be a programmer to use it. This project 
 
 #
 
-###### <p align="center"> ⚖︎ This project is licensed under the GPL 3.0 - GNU AFERRO License.<p align="center"> Copyright (c) 2023 Sumbot IBS's AI competition team </p>
+###### <p align="center"> ⚖︎ This project is licensed under the GPL 3.0 - GNU AFERRO License.<p align="center"> Copyright (c) 2023 Fabiana Campanari & Sumbot IBS's AI competition team </p>
 
 
 
